@@ -11,8 +11,6 @@ Vim은 수많은 기능들이 있는 강력한 에디터지만, 진입장벽이 
 
 수정내역은 txt파일의 기록을 보시면 됩니다
 
-Contact : kitsune03@outlook.com
-
 # 다운로드
 [Vim_8.2_Cheat_Sheet.pdf](https://github.com/kitsune03k/Vim8.2CheatSheet/raw/main/Vim_8.2_Cheat_Sheet.pdf)
 
