@@ -1,4 +1,4 @@
-# Vim 8.2 Cheat Sheet - for Beginners 
+# Vim 8.2 Cheat Sheet - for beginners 
 Vim은 강력한 에디터지만, 진입장벽이 꽤나 높기에 많이 사용하지 않는 것 같습니다
 
 심지어 리눅스 상에서도 말이죠...
