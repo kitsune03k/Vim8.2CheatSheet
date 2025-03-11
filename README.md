@@ -7,6 +7,6 @@ Vim은 매우 강력한 에디터지만 진입장벽이 꽤나 높기에 많이 
 수정내역은 txt파일의 기록을 보시면 됩니다
 
 ## Download
-[PDF](https://github.com/kitsune03k/Vim8.2CheatSheet/raw/main/vim82cheatsheet.pdf)
+[PDF](https://github.com/kitsune03k/Vim82CheatSheet/raw/main/vim82cheatsheet.pdf)
 
-[Raw Text](https://github.com/kitsune03k/Vim8.2CheatSheet/raw/main/vim82cheatsheet.txt)
+[Raw Text](https://github.com/kitsune03k/Vim82CheatSheet/raw/main/vim82cheatsheet.txt)
