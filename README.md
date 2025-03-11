@@ -1,4 +1,4 @@
-# Vim 8.2 Cheat Sheet - for beginners 
+## Vim 8.2 Cheat Sheet - for beginners 
 Vim은 강력한 에디터지만, 진입장벽이 꽤나 높기에 많이 사용하지 않는 것 같습니다
 
 심지어 리눅스 상에서도 말이죠...
@@ -12,6 +12,6 @@ Vim은 강력한 에디터지만, 진입장벽이 꽤나 높기에 많이 사용
 수정내역은 txt파일의 기록을 보시면 됩니다
 
 # 다운로드
-[Vim_8.2_Cheat_Sheet.pdf](https://github.com/kitsune03k/Vim8.2CheatSheet/raw/main/Vim_8.2_Cheat_Sheet.pdf)
+[Vim_8.2_Cheat_Sheet.pdf](https://github.com/kitsune03k/Vim8.2CheatSheet/raw/main/vim82cheatsheet.pdf)
 
-[Raw Text](https://github.com/kitsune03k/Vim8.2CheatSheet/raw/main/Vim_8.2_Cheat_Sheet.txt)
+[Raw Text](https://github.com/kitsune03k/Vim8.2CheatSheet/raw/main/vim82cheatsheet.txt)
