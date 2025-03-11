@@ -285,7 +285,7 @@ set laststatus=2 " 상태바 항상 표시
 
 set smartindent " c 포함 다양한 언어에서 똑똑하게 들여쓰기
 set noexpandtab " /t를 /sp 4개로 대체하는 것을 방지
-set tabstop=4 " /t를 몇 개의 /sp처럼 보이게 할지
+set tabstop=4 " /t를 4개의 /sp처럼 보이게
 set shiftwidth=4 " 자동/수동 들여쓰기 시 /sp 4개만큼
 
 set hlsearch " 검색 시 검색어 하이라이트
